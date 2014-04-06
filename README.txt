@@ -1,0 +1,1 @@
+These are the notes I took from all of the Code Academy JavaScript lessons. There are also some games and programs I wrote using the ideas I learned.
